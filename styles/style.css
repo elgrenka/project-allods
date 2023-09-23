@@ -1,0 +1,261 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@400;700&family=Roboto:wght@400;700&display=swap');
+@import url(variables.css);
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /*min-width: 100vw;*/
+    /*font-family: Roboto, sans-serif;*/
+}
+
+.frame0 {
+    align-items: flex-start;
+    background-color: var(--black);
+    border: 1px none;
+    display: flex;
+    flex-direction: column;
+    height: 1952px;
+    overflow: hidden;
+    width: 1920px;
+}
+
+.section0 {
+    align-items: flex-start;
+    display: flex;
+    margin-left: -282px;
+    margin-top: -30px;
+    min-width: 2613px;
+}
+
+.overlap-group11 {
+    height: 953px;
+    position: relative;
+    width: 2609px;
+}
+
+.hue_-saturation-5-1 {
+    height: 892px;
+    left: 238px;
+    position: absolute;
+    top: 30px;
+    width: 1974px;
+}
+
+.frame0 .layer-157 {
+    mix-blend-mode: multiply;
+    object-fit: cover;
+    position: absolute;
+}
+
+.layer-157-1 {
+    height: 934px;
+    left: 282px;
+    top: 19px;
+    width: 462px;
+}
+
+.layer-157-2 {
+    height: 934px;
+    left: 1763px;
+    top: 19px;
+    width: 462px;
+}
+
+.layer-157-3 {
+    height: 380px;
+    left: 0;
+    top: 546px;
+    width: 2609px;
+}
+
+.frame0 .mafia-costume_2022 {
+    height: 876px;
+    position: absolute;
+    top: 46px;
+}
+
+.mafia-costume_2022-2 {
+    left: 282px;
+    width: 577px;
+}
+
+.mafia-costume_2022-3 {
+    left: 1500px;
+    width: 678px;
+}
+
+.frame0 .blue-glow {
+    height: 172px;
+    position: absolute;
+    width: 1977px;
+}
+
+.blue-glow-3 {
+    left: 167px;
+    top: 750px;
+}
+
+.glow-1 {
+    height: 892px;
+    left: 361px;
+    mix-blend-mode: screen;
+    position: absolute;
+    top: 30px;
+    width: 2006px;
+}
+
+.logo {
+    height: 348px;
+    left: 1054px;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 376px;
+}
+
+.boxes {
+    height: 525px;
+    left: 833px;
+    object-fit: cover;
+    position: absolute;
+    top: 264px;
+    width: 766px;
+}
+
+.text-18 {
+    left: 282px;
+    position: absolute;
+    text-align: center;
+    top: 835px;
+    width: 1920px;
+}
+
+.frame0 .text-3 {
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.text-19 {
+    left: 282px;
+    position: absolute;
+    text-align: center;
+    top: 766px;
+    white-space: nowrap;
+    width: 1920px;
+}
+
+.section1 {
+    align-items: flex-start;
+    display: flex;
+    margin-left: -74px;
+    min-width: 1996px;
+}
+
+.overlap-group10 {
+    height: 1029px;
+    position: relative;
+    width: 1994px;
+}
+
+.background-wall {
+    height: 1024px;
+    left: 74px;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 1920px;
+}
+
+.blue-glow-1 {
+    left: 0;
+    top: 857px;
+}
+
+.overlap-group1 {
+    height: 111px;
+    left: 1300px;
+    position: absolute;
+    top: 837px;
+    width: 180px;
+}
+
+.overlap-group {
+    align-items: flex-end;
+    background-color: var(--yellow);
+    border-radius: 7px;
+    display: flex;
+    height: 40px;
+    left: 0;
+    /*min-width: 180px;*/
+    padding: 3px 15px;
+    position: absolute;
+    top: 71px;
+}
+
+.text-1-2 {
+    min-height: 26px;
+    width: 150px;
+}
+
+.frame0 .text-1-3 {
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+}
+
+.text-2 {
+    left: 0;
+    position: absolute;
+    top: -40px;
+    width: 167px;
+}
+
+.overlap-group2 {
+    align-items: flex-start;
+    background-color: var(--black-2);
+    display: flex;
+    height: 74px;
+    left: 1034px;
+    min-width: 632px;
+    padding: 4px 5px;
+    position: absolute;
+    top: 588px;
+}
+
+.frame0 .x1-6 {
+    align-self: center;
+    object-fit: cover;
+}
+
+.x1 {
+    height: 64px;
+    width: 64px;
+}
+
+.text {
+    height: 64px;
+    margin-left: 19px;
+    width: 229px;
+}
+
+.valign-text-middle {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

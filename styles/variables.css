@@ -1,0 +1,64 @@
+:root {
+    --black: #000;
+    --black-2: rgba(0, 0, 0, 0.549);
+    --white: #fff;
+    --yellow: #fcff00;
+
+    --font-size-l: 20px;
+    --font-size-m: 16px;
+    --font-size-xxl: 42px;
+    --font-size-xxxl: 50px;
+
+    --font-family-roboto: "Roboto";
+    --font-family-roboto_condensed-bold: "Roboto Condensed";
+}
+
+.roboto-normal-white-20px {
+    color: var(--white);
+    font-family: var(--font-family-roboto);
+    font-size: var(--font-size-l);
+    font-weight: 400;
+    font-style: normal;
+}
+
+.robotocondensed-bold-white-42px {
+    color: var(--white);
+    font-family: var(--font-family-roboto_condensed-bold);
+    font-size: var(--font-size-xxl);
+    font-weight: 700;
+    font-style: normal;
+}
+
+.roboto-normal-black-16px {
+    color: var(--black);
+    font-family: var(--font-family-roboto);
+    font-size: var(--font-size-m);
+    font-weight: 400;
+    font-style: normal;
+}
+
+.roboto-normal-white-50px {
+    color: var(--white);
+    font-family: var(--font-family-roboto);
+    font-size: var(--font-size-xxxl);
+    font-weight: 400;
+    font-style: normal;
+}
+
+.roboto-normal-white-16px {
+    color: var(--white);
+    font-family: var(--font-family-roboto);
+    font-size: var(--font-size-m);
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+
+
+
+
+
+
+
+
