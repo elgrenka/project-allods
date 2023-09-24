@@ -1,11 +1,16 @@
 :root {
     --black: #000;
     --black-2: rgba(0, 0, 0, 0.549);
+    --royal-blue: rgba(65, 109, 244, 1);
+    --cedar-wood-finish: rgba(103, 29, 0, 1);
+    --cedar-wood-finish-2: rgba(103, 29, 0, 0.55);
     --white: #fff;
     --yellow: #fcff00;
 
-    --font-size-l: 20px;
+    --font-size-s: 12px;
     --font-size-m: 16px;
+    --font-size-l: 20px;
+    --font-size-xl: 30px;
     --font-size-xxl: 42px;
     --font-size-xxxl: 50px;
 
@@ -50,6 +55,22 @@
     font-family: var(--font-family-roboto);
     font-size: var(--font-size-m);
     font-weight: 400;
+    font-style: normal;
+}
+
+.roboto-normal-cedar-wood-finish-12px {
+    color: var(--cedar-wood-finish);
+    font-family: var(--font-family-roboto);
+    font-size: var(--font-size-s);
+    font-weight: 400;
+    font-style: normal;
+}
+
+.robotocondensed-bold-royal-blue-30px {
+    color: var(--royal-blue);
+    font-family: var(--font-family-roboto_condensed-bold);
+    font-size: var(--font-size-xl);
+    font-weight: 700;
     font-style: normal;
 }
 

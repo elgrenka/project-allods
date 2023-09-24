@@ -347,6 +347,188 @@ body {
     width: 27px;
 }
 
+.overlap-group6 {
+    align-items: flex-start;
+    background-color: var(--black-2);
+    display: flex;
+    height: 74px;
+    left: 1034px;
+    min-width: 632px;
+    padding: 5px 6px;
+    position: absolute;
+    top: 288px;
+}
+
+.x1-4 {
+    height: 62px;
+    width: 62px;
+}
+
+.text-10 {
+    height: 62px;
+    margin-left: 121px;
+    text-align: center;
+    width: 27px;
+}
+
+.overlap-group7 {
+    align-items: flex-start;
+    background-color: var(--black-2);
+    display: flex;
+    height: 74px;
+    left: 1034px;
+    min-width: 632px;
+    padding: 4px 5px;
+    position: absolute;
+    top: 213px;
+}
+
+.x1-5 {
+    height: 64px;
+    width: 64px;
+}
+
+.number-3 {
+    height: 64px;
+    margin-left: 76px;
+    width: 27px;
+}
+
+.number-4 {
+    height: 64px;
+    margin-left: 121px;
+    width: 27px;
+}
+
+.overlap-group8 {
+    align-items: center;
+    background-color: var(--black-2);
+    border-radius: 1px;
+    display: flex;
+    height: 74px;
+    left: 1034px;
+    min-width: 632px;
+    padding: 0 6px;
+    position: absolute;
+    top: 138px;
+}
+
+.copy-1 {
+    height: 65px;
+    margin-top: 1px;
+    object-fit: cover;
+    width: 62px;
+}
+
+.text-14 {
+    height: 65px;
+    margin-bottom: 1px;
+    margin-left: 20px;
+    width: 229px;
+}
+.text-13 {
+    height: 65px;
+    margin-bottom: 1px;
+    margin-left: 76px;
+    text-align: center;
+    width: 27px;
+}
+
+.address {
+    height: 65px;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-bottom: 1px;
+    margin-left: 99px;
+    text-align: center;
+    width: 72px;
+}
+
+.ellipse-1 {
+    background-color: var(--royal-blue);
+    border-radius: 340px/343px;
+    filter: blur(200px);
+    height: 686px;
+    left: 299px;
+    mix-blend-mode: lighten;
+    opacity: 0.2;
+    position: absolute;
+    top: 182px;
+    width: 680px;
+}
+
+.vito-1 {
+    height: 891px;
+    left: 433px;
+    position: absolute;
+    top: 0;
+    width: 441px;
+}
+
+.overlap-group-container {
+    left: 1330px;
+    top: 106px;
+    width: 380px;
+}
+
+.frame0 .overlap-group-2 {
+    height: 23px;
+    position: absolute;
+}
+
+.overlap-group-1 {
+    left: 0;
+    top: 0;
+    width: 229px;
+}
+
+.view {
+    background-color: var(--black-2);
+    height: 23px;
+    left: 45px;
+    position: absolute;
+    top: 0;
+    width: 140px;
+    border: 1px solid var(--cedar-wood-finish-2);
+}
+
+.text-1-1 {
+    left: 0;
+    position: absolute;
+    top: 3px;
+    width: 229px;
+}
+
+.overlap-group1-1 {
+    height: 23px;
+    left: 151px;
+    position: absolute;
+    top: 0;
+    width: 229px;
+}
+
+.text-17 {
+    left: 1033px;
+    position: absolute;
+    top: 26px;
+    width: 526px;
+}
+
+.box {
+    height: 323px;
+    left: 1037px;
+    object-fit: cover;
+    position: absolute;
+    top: 682px;
+    width: 402px;
+}
+
+.color {
+    border: 1px solid var(--cedar-wood-finish-2);
+}
+
+
+
 
 
 
