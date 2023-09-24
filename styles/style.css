@@ -245,6 +245,107 @@ body {
     justify-content: center;
 }
 
+.number-2 {
+    height: 64px;
+    margin-left: 76px;
+    width: 27px;
+}
+
+.frame0 .number-5 {
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+}
+
+.number {
+    height: 64px;
+    margin-left: 99px;
+    width: 72px;
+}
+
+.overlap-group3 {
+    align-items: flex-start;
+    background-color: var(--black-2);
+    display: flex;
+    height: 74px;
+    left: 1034px;
+    min-width: 632px;
+    padding: 4px 5px;
+    position: absolute;
+    top: 513px;
+}
+
+.x1-1 {
+    height: 64px;
+    width: 64px;
+}
+
+.text-4 {
+    height: 64px;
+    margin-left: 76px;
+    text-align: center;
+    width: 27px;
+}
+
+.x1-2 {
+    height: 64px;
+    width: 64px;
+}
+
+.overlap-group5 {
+    align-items: flex-start;
+    background-color: var(--black-2);
+    display: flex;
+    height: 74px;
+    left: 1034px;
+    min-width: 632px;
+    padding: 5px 6px;
+    position: absolute;
+    top: 363px;
+}
+
+.x1-3 {
+    height: 62px;
+    width: 62px;
+}
+
+.text-1 {
+    height: 62px;
+    margin-left: 20px;
+    width: 229px;
+}
+
+.number-1 {
+    height: 62px;
+    margin-left: 76px;
+    width: 27px;
+}
+
+.text-8 {
+    height: 62px;
+    margin-left: 99px;
+    text-align: center;
+    width: 72px;
+}
+
+.overlap-group4 {
+    align-items: flex-start;
+    background-color: var(--black-2);
+    display: flex;
+    height: 74px;
+    left: 1034px;
+    min-width: 632px;
+    padding: 4px 5px;
+    position: absolute;
+    top: 438px;
+}
+
+.text-6 {
+    height: 64px;
+    margin-left: 76px;
+    text-align: center;
+    width: 27px;
+}
 
 
 
